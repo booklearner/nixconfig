@@ -1,0 +1,2 @@
+# nixconfig
+Personal nix configurations.
