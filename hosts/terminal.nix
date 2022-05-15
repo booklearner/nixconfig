@@ -9,6 +9,7 @@
       emacs
       git
       elixir
+      fzf
     ];
   };
 
