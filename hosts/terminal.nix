@@ -10,6 +10,10 @@
       git
       elixir
       fzf
+      helix
+      tree
+      rustup
+      htop
     ];
   };
 
