@@ -6,6 +6,9 @@
     systemPackages = with pkgs; [
       neovim
       wget
+      emacs
+      git
+      elixir
     ];
   };
 
