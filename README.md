@@ -13,6 +13,13 @@ Install [nix](https://nixos.org/download.html), and add `nix` command and `flake
 experimental-features = nix-command flakes
 ```
 
+Install [nix-darwin](https://github.com/LnL7/nix-darwin)
+
+```
+nix-build https://github.com/LnL7/nix-darwin/archive/master.tar.gz -A installer
+./result/bin/darwin-installer
+```
+
 ## Directory Structure
 
 - `configs`: Static configuration files, for example git, vim, ssh, etc. configuration files.

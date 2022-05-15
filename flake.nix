@@ -3,12 +3,12 @@
 
   inputs = {
     # branches to track nixpkgs
-    nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";
+    nixpkgs.url = "github:nixos/nixpkgs";
     nixpkgs-darwin.url = "github:nixos/nixpkgs/nixpkgs-21.11-darwin";
 
     # nix-darwin inputs, https://github.com/LnL7/nix-darwin
     darwin.url = "github:lnl7/nix-darwin/master";
-    darwin.inputs.nixpkgs.follows = "nixpkgs-darwin";
+    darwin.inputs.nixpkgs.follows = "nixpkgs";
 
     # home-manager inputs, https://github.com/nix-community/home-manager
     home-manager.url = "github:nix-community/home-manager";
