@@ -9,6 +9,9 @@
     ];
   };
 
+  # use zsh, since it's the default on macos
+  programs.zsh.enable = true;
+
   # auto upgrade nix package and the daemon service.
   services.nix-daemon.enable = true;
   nix.package = pkgs.nix;
