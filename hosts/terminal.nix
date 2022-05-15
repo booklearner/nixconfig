@@ -6,7 +6,7 @@
     systemPackages = with pkgs; [
       neovim
       wget
-      emacs
+      emacsNativeComp
       git
       elixir
       fzf
