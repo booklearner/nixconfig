@@ -14,6 +14,7 @@
       tree
       rustup
       htop
+      flyctl
     ];
   };
 
