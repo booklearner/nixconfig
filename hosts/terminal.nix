@@ -4,18 +4,18 @@
   environment = {
     # packages to install on 'terminal'
     systemPackages = with pkgs; [
-      neovim
-      wget
-      emacsNativeComp
-      git
       elixir
-      fzf
-      helix
-      tree
-      rustup
-      htop
+      emacsNativeComp
       flyctl
+      fzf
+      git
+      helix
+      htop
+      neovim
       opam
+      rustup
+      tree
+      wget
     ];
   };
 
