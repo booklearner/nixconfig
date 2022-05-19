@@ -15,6 +15,7 @@
       rustup
       htop
       flyctl
+      opam
     ];
   };
 
