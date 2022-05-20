@@ -14,6 +14,7 @@
       neovim
       opam
       rustup
+      silver-searcher
       tree
       wget
     ];
