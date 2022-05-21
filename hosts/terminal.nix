@@ -11,7 +11,6 @@
       git
       helix
       htop
-      libusb
       neovim
       opam
       rustup
