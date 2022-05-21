@@ -12,6 +12,7 @@
       helix
       htop
       neovim
+      nodejs
       opam
       rustup
       silver-searcher
