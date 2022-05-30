@@ -9,6 +9,7 @@
       flyctl
       fzf
       git
+      github-cli
       helix
       htop
       neovim

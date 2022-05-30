@@ -1,7 +1,7 @@
 [user]
 	name = booklearner
-	email = booklearner@protonmail.com
-	signingkey = 25E762C107D3B4E5FC7B7C5EB572D49FB29F96F1
+	email = hey@booklearner.org
+	signingkey = 17C795D4871C2F8783C8053D0C61C4E5907F76C8
 [commit]
 	gpgsign = true
 [init]
