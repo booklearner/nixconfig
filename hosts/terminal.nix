@@ -19,6 +19,8 @@
       silver-searcher
       tree
       wget
+      ghc
+      stack
     ];
   };
 
