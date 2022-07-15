@@ -22,7 +22,7 @@
       ghc
       stack
       # zig -- marked as broken right now
-      zls
+      # zls
     ];
   };
 
