@@ -23,6 +23,8 @@
       stack
       zig
       zls
+      go
+      gopls
     ];
   };
 
