@@ -13,6 +13,8 @@
       helix
       htop
       neovim
+      nixpkgs-fmt
+      nixfmt
       nodejs
       opam
       rustup
