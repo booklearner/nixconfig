@@ -29,6 +29,7 @@
       zls
       go
       gopls
+      qemu
     ];
   };
 
