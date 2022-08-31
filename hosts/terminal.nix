@@ -17,6 +17,8 @@
       nixfmt
       nodejs
       opam
+      podman
+      podman-compose
       rustup
       silver-searcher
       tree
