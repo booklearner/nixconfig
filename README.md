@@ -2,7 +2,7 @@
 
 Personal nix configurations for macOS and Linux using nix-darwin, flakes, and home-manager.
 
-Feel free to reach out to me on Matrix (`@booklearner:matrix.org`) if you have any questions and need any help setting up your own system.
+Feel free to reach out to me on Matrix ([`@booklearner:matrix.org`](https://matrix.to/#/@booklearner:matrix.org)) if you have any questions and need any help setting up your own system.
 
 ## Directory Structure
 
