@@ -17,6 +17,7 @@
       nixfmt
       nodejs
       opam
+      packer
       podman
       podman-compose
       rustup
