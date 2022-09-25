@@ -3,7 +3,7 @@
 
   inputs = {
     # tracking nixpkg repositories
-    nixpkgs.url = "github:NixOS/nixpkgs/master";
+    nixpkgs.url = "github:NixOS/nixpkgs?rev=6690600e58a67a42e644b98e9b9a32f996348ed5";
     nixos-stable.url = "github:NixOS/nixpkgs/release-22.05";
     nixos-unstable.url = "github:NixOS/nixpkgs/nixos-unstable";
     nixpkgs-darwin.url = "github:NixOS/nixpkgs/nixpkgs-22.05-darwin";
