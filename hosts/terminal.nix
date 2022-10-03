@@ -31,6 +31,7 @@
       go
       gopls
       qemu
+      yarn
     ];
   };
 
