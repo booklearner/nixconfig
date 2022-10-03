@@ -4,9 +4,7 @@
   environment = {
     # packages to install on 'terminal'
     systemPackages = with pkgs; [
-      elixir
       emacsNativeComp
-      flyctl
       fzf
       git
       github-cli
