@@ -4,6 +4,7 @@
   environment = {
     # packages to install on 'terminal'
     systemPackages = with pkgs; [
+      bat
       emacsNativeComp
       fzf
       git
@@ -13,7 +14,6 @@
       neovim
       nixpkgs-fmt
       nixfmt
-      nodejs
       opam
       packer
       podman
@@ -29,7 +29,7 @@
       go
       gopls
       qemu
-      yarn
+      git-crypt
     ];
   };
 
