@@ -30,6 +30,7 @@
       gopls
       qemu
       git-crypt
+      postgresql
     ];
   };
 
