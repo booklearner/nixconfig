@@ -24,8 +24,8 @@
       wget
       ghc
       stack
-      zig
-      zls
+      # zig
+      # zls
       go
       gopls
       qemu
