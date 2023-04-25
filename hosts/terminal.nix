@@ -5,7 +5,7 @@
     # packages to install on 'terminal'
     systemPackages = with pkgs; [
       bat
-      emacsNativeComp
+      emacs
       fzf
       git
       github-cli
